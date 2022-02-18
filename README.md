@@ -1,3 +1,3 @@
 # Sample
 
-A sample of html file.
+A sample of html file project.
